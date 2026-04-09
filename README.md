@@ -9,7 +9,7 @@ Welcome to my personal portfolio website.
 
 ## 👩‍💻 About Me
 
-I'm a Junior Software Developer based in Braga, Portugal.
+I'm a Software Developer based in Braga, Portugal.
 
 I transitioned from a career in nursing to software engineering, bringing with me a strong foundation in:
 - Precision and attention to detail  
